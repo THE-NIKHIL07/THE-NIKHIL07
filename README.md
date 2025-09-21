@@ -20,6 +20,8 @@ Driven by the belief that **continuous learning, hands-on experience, and discip
 ## 💻 Skills  
 
 ### Programming Languages  
+I have strong foundations in programming languages that allow me to solve complex problems, build algorithms, and develop scalable applications:  
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-181717?style=flat&logo=java" />
   <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python" />
@@ -28,19 +30,26 @@ Driven by the belief that **continuous learning, hands-on experience, and discip
 </p>
 
 ### Web Development  
+I can create responsive and interactive web pages using modern web technologies:  
+
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3" />
 </p>
 
 ### Backend Development  
+I have experience building server-side applications, APIs, and managing databases:  
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-181717?style=flat&logo=java" />
   <img src="https://img.shields.io/badge/-Spring_Boot-181717?style=flat&logo=springboot" />
+  <img src="https://img.shields.io/badge/-Flask-181717?style=flat&logo=flask" />
   <img src="https://img.shields.io/badge/-REST_API-181717?style=flat" />
 </p>
 
 ### AI & Machine Learning  
+I am passionate about AI/ML and deep learning, and I enjoy building models to solve real-world problems. My experience includes data analysis, visualization, predictive modeling, and neural networks:  
+
 <p align="center">
   <img src="https://img.shields.io/badge/-TensorFlow-181717?style=flat&logo=tensorflow" />
   <img src="https://img.shields.io/badge/-PyTorch-181717?style=flat&logo=pytorch" />
@@ -49,6 +58,15 @@ Driven by the belief that **continuous learning, hands-on experience, and discip
   <img src="https://img.shields.io/badge/-Matplotlib-181717?style=flat&logo=matplotlib" />
   <img src="https://img.shields.io/badge/-Seaborn-181717?style=flat&logo=seaborn" />
   <img src="https://img.shields.io/badge/-Neural_Networks-181717?style=flat" />
+</p>
+
+### Tools & Platforms  
+I use modern development tools and platforms to write, test, and deploy code efficiently:  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-181717?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-VS_Code-181717?style=flat&logo=visualstudiocode" />
 </p>
 
 ---
@@ -81,7 +99,5 @@ Driven by the belief that **continuous learning, hands-on experience, and discip
   <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/-Email-181717?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nikhil-bisht-86b64036a/"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/THE-NIKHIL07"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-181717?style=flat&logo=leetcode" /></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-HackerRank-181717?style=flat&logo=hackerrank" /></a>
-  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/-Kaggle-181717?style=flat&logo=kaggle" /></a>
+  <a href="https://leetcode.com/u/THE-NIKHIL07/"><img src="https://img.shields.io/badge/-LeetCode-181717?style=flat&logo=leetcode" /></a>
 </p>
