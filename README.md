@@ -58,8 +58,16 @@ My mission is to be among the **top 0.01% of coders worldwide**, mastering every
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/-Email-181717?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nikhil-bisht-86b64036a/"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/THE-NIKHIL07"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" /></a>
-  <a href="https://leetcode.com/u/THE-NIKHIL07/"><img src="https://img.shields.io/badge/-LeetCode-181717?style=flat&logo=leetcode" /></a>
+  <a href="mailto:nikhilbisht058@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-181717?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-bisht-86b64036a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/THE_NIKHIL07">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://leetcode.com/THE_NIKHIL07/">
+    <img src="https://img.shields.io/badge/-LeetCode-181717?style=flat&logo=leetcode" />
+  </a>
 </p>
