@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nikhil Bisht
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Curiosity+is+all+I+need;AI+%2F+ML+is+my+playground;Backend+%7C+Python+%7C+APIs;Open+to+internships+%26+collabs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Curiosity+is+all+I+need;Consistency+is+the+best+algorithm" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,13 +16,21 @@ My mission is to be among the **top 0.01% of coders worldwide**, mastering every
 
 ## 💻 Tech Stack
 
+### Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=A8B9CC" />
   <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css&logoColor=663399" />
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
   <img src="https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-181717?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/TensorFlow-181717?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
@@ -33,6 +41,11 @@ My mission is to be among the **top 0.01% of coders worldwide**, mastering every
   <img src="https://img.shields.io/badge/Seaborn-181717?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
   <img src="https://img.shields.io/badge/Neural%20Networks-181717?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+</p>
+
+### Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=FF6C37" />
