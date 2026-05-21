@@ -1,73 +1,56 @@
-# 👋 Hi, I'm Nikhil Bisht  
+# 👋 Hi, I'm Nikhil Bisht
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Curiosity+is+all+I+need;AI+%2F+ML+is+my+playground;Backend+%7C+Python+%7C+APIs;Open+to+internships+%26+collabs!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🎓 About Me  
-I'm a **B.Tech student at Maharaja Surajmal Institute of Technology** with a passion for **Backend Development, AI/ML, and programming**.  
+## 🎓 About Me
 
-My mission is to be among the **top 0.01% of coders worldwide**, mastering every technology I can and building **impactful, real-world solutions**.  
+I'm a **B.Tech student at Maharaja Surajmal Institute of Technology** and an aspiring **ML/DL Engineer, Backend Developer, and Competitive Programmer**.
 
+My mission is to be among the **top 0.01% of coders worldwide**, mastering every technology I can and building **impactful, real-world solutions**.
 
 ---
 
-## 💻 Skills  
+## 💻 Tech Stack
 
-### Programming Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-181717?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-C++-181717?style=flat&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/-C-181717?style=flat&logo=c" />
+  <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-181717?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/TensorFlow-181717?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/PyTorch-181717?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/scikit--learn-181717?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Pandas-181717?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Matplotlib-181717?style=for-the-badge&logo=plotly&logoColor=3F4F75" />
+  <img src="https://img.shields.io/badge/Seaborn-181717?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-181717?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/VS%20Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 </p>
 
-### Web Development  
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3" />
-</p>
+---
 
-### Backend Development  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-181717?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-181717?style=flat&logo=springboot" />
-  <img src="https://img.shields.io/badge/-Flask-181717?style=flat&logo=flask" />
-  <img src="https://img.shields.io/badge/-REST_API-181717?style=flat" />
-</p>
-
-### AI & Machine Learning  
-<p align="center">
-  <img src="https://img.shields.io/badge/-TensorFlow-181717?style=flat&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/-PyTorch-181717?style=flat&logo=pytorch" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-181717?style=flat&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/-Pandas-181717?style=flat&logo=pandas" />
-  <img src="https://img.shields.io/badge/-Matplotlib-181717?style=flat&logo=matplotlib" />
-  <img src="https://img.shields.io/badge/-Seaborn-181717?style=flat&logo=seaborn" />
-  <img src="https://img.shields.io/badge/-Neural_Networks-181717?style=flat" />
-</p>
-
-### Tools & Platforms  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-181717?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-VS_Code-181717?style=flat&logo=visualstudiocode" />
-</p>
-
-
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:nikhilbisht058@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-181717?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/nikhil-bisht-86b64036a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/THE_NIKHIL07">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://leetcode.com/THE_NIKHIL07/">
-    <img src="https://img.shields.io/badge/-LeetCode-181717?style=flat&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
 </p>
