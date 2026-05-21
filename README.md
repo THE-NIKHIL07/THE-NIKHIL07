@@ -34,6 +34,8 @@ My mission is to be among the **top 0.01% of coders worldwide**, mastering every
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-181717?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/LangChain-181717?style=for-the-badge&logo=langchain&logoColor=1C3C3C" />
+  <img src="https://img.shields.io/badge/LangGraph-181717?style=for-the-badge&logo=langchain&logoColor=00FFAA" />
   <img src="https://img.shields.io/badge/TensorFlow-181717?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
   <img src="https://img.shields.io/badge/PyTorch-181717?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
   <img src="https://img.shields.io/badge/scikit--learn-181717?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
@@ -51,19 +53,6 @@ My mission is to be among the **top 0.01% of coders worldwide**, mastering every
   <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=FF6C37" />
   <img src="https://img.shields.io/badge/VS%20Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=THE-NIKHIL07&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Nikhil's GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=THE-NIKHIL07&theme=github-dark-blue&hide_border=true" alt="Nikhil's GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THE-NIKHIL07&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
