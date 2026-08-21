@@ -14,45 +14,22 @@ My mission is to be among the **top 0.01% of coders worldwide**, mastering every
 
 ---
 
-## 🧰 Tech Stack
-
-### Languages
+## 🧰 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css&logoColor=663399" />
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,sql,postgres,nodejs,flask,fastapi,streamlit,pytorch,tensorflow,sklearn,opencv,pandas,numpy,huggingface,qdrant,mongodb,flutter,dart" height="90" />
 </p>
 
-### Frameworks & Libraries
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-181717?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/LangChain-181717?style=for-the-badge&logo=langchain&logoColor=1C3C3C" />
-  <img src="https://img.shields.io/badge/LangGraph-181717?style=for-the-badge&logo=langchain&logoColor=00FFAA" />
-  <img src="https://img.shields.io/badge/TensorFlow-181717?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/PyTorch-181717?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/scikit--learn-181717?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Pandas-181717?style=for-the-badge&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/Matplotlib-181717?style=for-the-badge&logo=plotly&logoColor=3F4F75" />
-  <img src="https://img.shields.io/badge/Seaborn-181717?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-  <img src="https://img.shields.io/badge/Neural%20Networks-181717?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://skillicons.dev/icons?i=langchain,langgraph" height="90" />
 </p>
 
-### Tools
+---
+
+## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/VS%20Code-181717?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,pycharm,idea,vercel,heroku,render" height="90" />
 </p>
 
 ---
@@ -63,10 +40,8 @@ My mission is to be among the **top 0.01% of coders worldwide**, mastering every
   <a href="mailto:nikhilbisht058@gmail.com">
     <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
+
   <a href="https://www.linkedin.com/in/nikhil-bisht-86b64036a/">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://leetcode.com/THE_NIKHIL07/">
-    <img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
   </a>
 </p>
