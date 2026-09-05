@@ -17,11 +17,16 @@ My mission is to be among the **top 0.01% of coders worldwide**, mastering every
 ## 🧰 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,sql,postgres,nodejs,flask,fastapi,streamlit,pytorch,tensorflow,sklearn,opencv,pandas,numpy,huggingface,qdrant,mongodb,flutter,dart" height="90" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,mysql,postgresql,nodejs,expressjs,flask,fastapi,pytorch,tensorflow,scikitlearn,opencv,mongodb,flutter,dart&perline=10" />
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain,langgraph" height="90" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF0000?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langgraph-121212?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 ---
@@ -29,7 +34,10 @@ My mission is to be among the **top 0.01% of coders worldwide**, mastering every
 ## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,pycharm,idea,vercel,heroku,render" height="90" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,pycharm,idea,vercel,heroku&perline=9" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
